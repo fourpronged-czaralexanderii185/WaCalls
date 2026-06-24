@@ -151,7 +151,7 @@ func (m *SessionManager) Delete(ctx context.Context, id string) error {
 		s.client.Disconnect()
 		_ = m.container.DeleteDevice(ctx, s.client.Store)
 	}
-	s.closeBridge()
+	s.teardownAllCalls()
 	m.unregister(id)
 	_ = m.store.delete(ctx, id)
 	m.broker.emitSessionList(m.infos())
